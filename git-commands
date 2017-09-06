@@ -22,3 +22,5 @@ git log
 
 # Show diff in modified files
 git diff
+
+# .gitignore
