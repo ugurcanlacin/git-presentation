@@ -1,0 +1,24 @@
+# Initialization
+git init
+
+# Setting name and email (--global means it will be set for every project.)
+git config --global user.name "Name Surname"
+git config --global user.email "email@email.com"
+
+# Checking status
+git status
+
+# Adding modified or untracked files to be staged.
+git add <file>
+
+# Commits staged files.
+git commit
+
+# Pushing commits to server
+git push
+
+# Shows commit history
+git log
+
+# Show diff in modified files
+git diff
