@@ -17,6 +17,9 @@ git commit
 # Pushing commits to server
 git push
 
+# Revert changes in modified stage
+git checkout -- <file>
+
 # Shows commit history
 git log
 
