@@ -27,3 +27,15 @@ git log
 git diff
 
 # .gitignore
+
+## Branching
+# Show branches in your local. The branch has * in the beginning is your current branch.
+git branch
+
+# Create a branch and checkout to that branch
+git checkout -b <branchName>
+
+# Checkout to specific branch
+git checkout <branchName>
+
+
